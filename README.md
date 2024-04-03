@@ -4,3 +4,22 @@ Problemsolver. Troubleshooter. Innovator. Listener. Questioner. Communicator. Me
 
 # PROJECTS
 
+## Analyzing Music Data
+![](/assets/img/music.jpg)
+
+In this project...
+
+## Tanzania Tourism Prediction
+![](/assets/img/tanzania.jpg)
+
+In this project...
+
+## Plänterwaldlauf Analysis
+![](/assets/img/running.jpg)
+
+In this project...
+
+## Infringement Detection
+![](/assets/img/airbnb.jpg)
+
+In this project...
