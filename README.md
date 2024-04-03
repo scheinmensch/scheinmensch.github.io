@@ -1,4 +1,4 @@
 # Johanna Kruger
-![](/assets/img/johanna.jpeg)
+logo: /assets/img/johanna.jpeg
 
 *WORK IN PROGRESS*
