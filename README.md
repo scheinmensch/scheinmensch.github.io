@@ -1,4 +1,5 @@
-# Test
+# Johanna Kruger
+![](/assets/img/Johanna Krüger.jpeg)
 
 ### Test
 
