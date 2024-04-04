@@ -6,6 +6,8 @@ Problemsolver. Troubleshooter. Innovator. Listener. Questioner. Communicator. Me
 ## [Analyzing Music Data](https://github.com/scheinmensch/Spotify)
 ![](/assets/img/music.jpg)
 
+**Python | API | Custom visualizations | Word clouds | Clustering | Spotipy | Seaborn | Matplotlib | Plotly | Scikit-learn**
+
 In this project I analyze music data that I received via the Spotify Web API. Special highlights of this project are the use of the Spotipy package, the customized visualizations, the creation of word clouds and the use of Plotly to create interactive graphics.
 
 ## [Tanzania Tourism Prediction](https://github.com/scheinmensch/Tanzania_Tourism_Prediction)
