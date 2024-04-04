@@ -14,7 +14,6 @@ Due to my diverse background and broad interests, I always keep an overview of t
 #### Python | API | Custom visualizations | Word clouds | Clustering | Spotipy | Seaborn | Matplotlib | Plotly | Scikit-learn
 
 In this project I analyze music data that I received via the Spotify Web API. Special highlights of this project are the use of the Spotipy package, the customized visualizations, the creation of word clouds and the use of Plotly to create interactive graphics.
-
 [View on Github](https://github.com/scheinmensch/Spotify)
 
 ## [Tanzania Tourism Prediction](https://github.com/scheinmensch/Tanzania_Tourism_Prediction)
@@ -31,7 +30,6 @@ In this project I carried out a comprehensive analysis of tourist data. It also 
 #### Python | Camelot | Seaborn | Matplotlib
 
 In this project I analyze data from the 91st Plänterwaldlauf, in which I myself took part. The biggest challenge in this project was that the data was only available as tables in various PDFs. With the help of Camelot and a lot of manual work, I created a structured data set that was easy to work with.
-
 [View on Github](https://github.com/scheinmensch/Plaenterwaldlauf)
 
 ## [HR Analytics](https://github.com/scheinmensch/HR-Analytics)
@@ -40,7 +38,6 @@ In this project I analyze data from the 91st Plänterwaldlauf, in which I myself
 #### Python | Seaborn | Matplotlib | Scikit-learn | XGBoost | Sampling
 
 The goal of this project was to develop a machine learning model to predict whether a candidate is looking for a job change or not. First, of course, I carried out a comprehensive EDA. The data was very poor and - on top - imbalanced, but my model still performs very solidly compared to others on Kaggle.
-
 [View on Github](https://github.com/scheinmensch/HR-Analytics)
 
 ## [Infringement Detection on Airbnb](https://github.com/scheinmensch/Infringement_Detection_on_Airbnb)
@@ -49,7 +46,6 @@ The goal of this project was to develop a machine learning model to predict whet
 #### Python | Webscraping | Custom visualizations | Presentation | Clustering | Seaborn | Matplotlib | Beautifulsoup | Selenium | Scikit-learn
 
 This is our final project at the neuefische Data Practitioner bootcamp. Together with 2 fellow students, we compared Airbnb data from 3 European cities. We paid particular attention to the question of whether applicable laws and restrictions on subletting apartments were violated in the cities. For the city of Barcelona, we trained a machine learning model that correctly classifies 99% of all listings - whether they seem compliant or suspicious. Another highlight of this project is that we partially scraped the data used ourselves.
-
 [View on Github](https://github.com/scheinmensch/Infringement_Detection_on_Airbnb)
 
 ## [Financial Inclusion in Africa](https://github.com/scheinmensch/Financial_inclusion_in_Africa)
@@ -58,5 +54,4 @@ This is our final project at the neuefische Data Practitioner bootcamp. Together
 #### Python | Presentation | Clustering | Seaborn | Matplotlib | Plotly | Scikit-learn | XGBoost | Sampling
 
 My first machine learning project. The aim was to use demographic data of some inhabitants of Kenya, Rwanda, Tanzania and Uganda to predict whether these people have a bank account or not. The data set was highly imbalanced. With the final model (XGBoost Classifier), I was able to improve the recall score from 0.42 to 0.83 (compared to the baseline model).
-
 [View on Github](https://github.com/scheinmensch/Financial_inclusion_in_Africa)
