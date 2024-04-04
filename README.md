@@ -1,5 +1,6 @@
 # ABOUT ME
-Problemsolver. Troubleshooter. Innovator. Listener. Questioner. Communicator. Mediator
+Analytical thinking has always been my "DNA". After more than 10 years of professional experience I decided in autumn 2022 to further my education even more in line with my talents: Since then, I have acquired a variety of relevant skills in different practical data projects: I am proficient in data manipulation, analysis and visualization as well as ML model building, using technologies such as Python, SQL, Tableau and more.
+These skills complement my background as an Account and Campaign Manager and my extensive practical experience in developing and implementing changing projects from start to finish as well as professionally communicating with internal and external stakeholders.
 
 # PROJECTS
 
