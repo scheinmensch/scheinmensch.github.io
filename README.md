@@ -31,7 +31,7 @@ In this project I analyze data from the 91st Plänterwaldlauf, in which I myself
 
 #### Python | Seaborn | Matplotlib | Scikit-learn | XGBoost | Sampling
 
-The goal of this project was to develop a machine learning model to predict whether a candidate is looking for a job change or not. First, of course, I carried out a comprehensive EDA. The data was very poor, but my model still performs very solidly compared to others on Kaggle.
+The goal of this project was to develop a machine learning model to predict whether a candidate is looking for a job change or not. First, of course, I carried out a comprehensive EDA. The data was very poor and - on top - imbalanced, but my model still performs very solidly compared to others on Kaggle.
 
 ## [Infringement Detection](https://github.com/scheinmensch/Infringement_Detection_on_Airbnb)
 ![](/assets/img/airbnb.jpg)
@@ -45,4 +45,4 @@ This is our final project at the neuefische Data Practitioner bootcamp. Together
 
 #### Python | Presentation | Clustering | Seaborn | Matplotlib | Plotly | Scikit-learn | XGBoost | Sampling
 
-My first machine learning project. The aim was to use demographic data of some inhabitants of Kenya, Rwanda, Tanzania and Uganda to predict whether these people have a bank account or not. With the final model (XGBoost Classifier), I was able to improve the recall score from 0.42 to 0.83 (compared to the baseline model).
+My first machine learning project. The aim was to use demographic data of some inhabitants of Kenya, Rwanda, Tanzania and Uganda to predict whether these people have a bank account or not. The data set was highly imbalanced. With the final model (XGBoost Classifier), I was able to improve the recall score from 0.42 to 0.83 (compared to the baseline model).
