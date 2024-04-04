@@ -22,7 +22,7 @@ In this project I carried out a comprehensive analysis of tourist data. It also 
 ## [Plänterwaldlauf Analysis](https://github.com/scheinmensch/Plaenterwaldlauf)
 ![](/assets/img/running.jpg)
 
-#### Python | Camleot | Seaborn | Matplotlib
+#### Python | Camelot | Seaborn | Matplotlib
 
 In this project I analyze data from the 91st Plänterwaldlauf, in which I myself took part. The biggest challenge in this project was that the data was only available as tables in various PDFs. With the help of Camelot and a lot of manual work, I created a structured data set that was easy to work with.
 
